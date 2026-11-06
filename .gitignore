@@ -1,0 +1,11 @@
+# 凭证：绝不上传
+cookies.txt
+config.local.json
+
+# 本地运行产物
+__pycache__/
+*.log
+.DS_Store
+
+# 本机实际使用的 launchd plist（含个人路径，仓库里只有 .template）
+com.kindle.pdocs-cleanup.plist
